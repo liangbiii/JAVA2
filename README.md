@@ -68,4 +68,4 @@ class Lesson{
 ![image](https://github.com/liangbiii/JAVA2/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201101233549.png)
 
 # 实验感想
-充分掌握子类继承父类的方法，学会了将子类实例化，了解了使用tostring()方法将信息输出。上网查询了很多资源，自己实在是不会。
+充分掌握子类继承父类的方法，学会了将子类实例化，了解了使用tostring()方法将信息输出。上网查询了很多资源，明白了子类无法继承父类的构造函数。
